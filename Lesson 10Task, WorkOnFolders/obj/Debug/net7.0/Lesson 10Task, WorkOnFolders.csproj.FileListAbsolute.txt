@@ -1,0 +1,15 @@
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\bin\Debug\net7.0\Lesson 10Task, WorkOnFolders.exe
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\bin\Debug\net7.0\Lesson 10Task, WorkOnFolders.deps.json
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\bin\Debug\net7.0\Lesson 10Task, WorkOnFolders.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\bin\Debug\net7.0\Lesson 10Task, WorkOnFolders.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\bin\Debug\net7.0\Lesson 10Task, WorkOnFolders.pdb
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\refint\Lesson 10Task, WorkOnFolders.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.pdb
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\Lesson 10Task, WorkOnFolders.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\Lesson 10Task, WorkOnFolders\Lesson 10Task, WorkOnFolders\obj\Debug\net7.0\ref\Lesson 10Task, WorkOnFolders.dll
